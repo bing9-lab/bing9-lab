@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Yebin! 👋
 
-<!--
-**bing9-lab/bing9-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Spatial Information Engineering Student**
+🏫 University of Seoul, South Korea
 
-Here are some ideas to get you started:
+## 🌍 About Me
+I'm interested in exploring how spatial
+data and technology can help us better
+understand the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Areas of Interest
+- Geospatial Data Analysis
+- GIS & Remote Sensing
+- Satellite Imagery
+- Python & Data Science
+
+### 📚 Currently Learning
+- Python Programming
+- Spatial Data Processing
+- Data Analysis & Visualization
+
+### 📂 Projects
+Projects and learning records will be
+added here as I develop my skills.
+
+---
+*Learning, building, and growing
+one project at a time.*
